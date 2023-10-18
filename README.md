@@ -1,4 +1,8 @@
-### Hi there 👋
+This is Sirajul Muneer 😊
+Bsc Biotechnology Graduate🔬 But I
+Loves <b>Coding💻</b>
+And Learning to Code at the moment🧑‍💻
+Connect with me <a href="mailto:muneersirajul414@gmail.com?">📧muneersirajul414@gmail.com </a>
 
 <!--
 **sirajulmuneer414/sirajulmuneer414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
