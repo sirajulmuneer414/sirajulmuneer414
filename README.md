@@ -2,7 +2,7 @@
 Bsc Biotechnology Graduate🔬 But I<br>
 Loves <b>Coding💻</b><br>
 And Learning to Code at the moment🧑‍💻<br>
-Connect with me <a href="mailto:muneersirajul414@gmail.com?" style="text-decoration:none;">📧muneersirajul414@gmail.com </a></h3>
+Connect with me <a href="mailto:muneersirajul414@gmail.com?" style="text-decoration:none;">📧muneersirajul414@gmail.com </a></h3> 
 
 <!--
 **sirajulmuneer414/sirajulmuneer414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
